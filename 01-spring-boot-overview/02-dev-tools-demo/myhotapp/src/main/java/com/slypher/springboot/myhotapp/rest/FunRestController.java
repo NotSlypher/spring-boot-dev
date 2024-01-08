@@ -12,4 +12,9 @@ public class FunRestController {
     public String sayHello(){
         return "Hello World";
     }
+
+    @GetMapping("/review")
+    public String getReview(){
+        return "nice very nice";
+    }
 }
