@@ -4,12 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a406111-649c-40e5-975c-401de6f1f7d9" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/src/main/java/com/slypher/springboot/myhotapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/src/main/java/com/slypher/springboot/myhotapp/rest/FunRestController.java" afterDir="false" />
+    <list default="true" id="9a406111-649c-40e5-975c-401de6f1f7d9" name="Changes" comment="devtools demo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/src/main/java/com/slypher/springboot/myhotapp/MyhotappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/src/main/java/com/slypher/springboot/myhotapp/rest/FunRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/01-spirng-boot-demo/myhotapp/src/test/java/com/slypher/springboot/myhotapp/MyhotappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/.idea/02-dev-tools-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/src/main/java/com/slypher/springboot/myhotapp/MyhotappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/src/main/java/com/slypher/springboot/myhotapp/rest/FunRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/myhotapp/src/test/java/com/slypher/springboot/myhotapp/MyhotappApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +53,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2aP4VPtjQXLlV7z17w6KbYNm25F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,17 +70,23 @@
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/dev/spring-boot-dev&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;6c77ef37a7f1a0d7143911b0eb14a28e&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\spring-boot-dev\01-spring-boot-overview" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -90,7 +120,14 @@
       <updated>1704206902835</updated>
       <workItem from="1704206904012" duration="877000" />
       <workItem from="1704263315936" duration="1625000" />
-      <workItem from="1704697078571" duration="97000" />
+      <workItem from="1704697078571" duration="320000" />
+      <workItem from="1704711494699" duration="144000" />
+      <workItem from="1704718242649" duration="2228000" />
+      <workItem from="1704723087660" duration="127000" />
+      <workItem from="1704723228086" duration="8000" />
+      <workItem from="1704723534915" duration="1664000" />
+      <workItem from="1704725209753" duration="22000" />
+      <workItem from="1704725858580" duration="194000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1704207072469</created>
@@ -99,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704207072469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="devtools demo">
+      <created>1704697304602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704697304602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +157,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
             </State>
@@ -124,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="devtools demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="devtools demo" />
   </component>
 </project>
