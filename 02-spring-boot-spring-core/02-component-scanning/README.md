@@ -1,4 +1,4 @@
-#Annotations:-
+# Annotations:-
 
 Spring boot automatically scans for annotations and makes beans for them. 
 
@@ -9,7 +9,7 @@ Spring boot automatically scans for annotations and makes beans for them.
 
 **Spring application** creates application context and registers all the beans as well as starts tomcat server.
 
-#Component scanning:-
+# Component scanning:-
 Spring boot starts component scanning from the same package as the main spring boot application and scans sub-packages recursively.
 
 Component scanning is done in main package by default, for other packages it can be mentioned in
