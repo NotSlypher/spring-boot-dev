@@ -9,3 +9,17 @@ Spring will scan for @Components
 
 Constructor injection- for required dependencies \
 Setter injection- for optional dependencies
+
+**Bad injection:-**
+Field injection - directly injecting without taking through parameter
+
+**example:-**
+@Autowired
+private Coach myCoach
+
+_// no need for constructors or setters_
+@GetMapping ( " /dailyworkout " )
+
+public String getDailyWorkout() {
+return myCoach.getDailyWorkout() ;
+}
